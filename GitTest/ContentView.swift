@@ -20,6 +20,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Extra Text 1")
             Text("Extra Text 2")
+            Text("Extra Text 3")
         }
         .padding()
     }
