@@ -18,6 +18,7 @@ struct ContentView: View {
             Image(systemName: "cube")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
+            Text("Extra Text 1")
         }
         .padding()
     }
