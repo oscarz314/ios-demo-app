@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Funny and Gitty")
+            Text("Even more changes for the GitHub to handle")
             Image(systemName: "cube")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
